@@ -1,0 +1,487 @@
+BTC 67527.76213 Bitcoin
+ETH 3769.71897 Ethereum
+USDT 0.99886 Tether
+BNB 595.23174 BNB
+SOL 168.10902 Solana
+STETH 3768.62596 Lido Staked Ether
+USDC 1.00018 USDC
+XRP 0.52284 XRP
+DOGE 0.16362 Dogecoin
+TON 6.50746 Toncoin
+SHIB 3.0e-05 Shiba Inu
+ADA 0.45088 Cardano
+AVAX 36.21829 Avalanche
+WETH 3770.8241 WETH
+LINK 18.47807 Chainlink
+WBTC 67528.65405 Wrapped Bitcoin
+DOT 7.16543 Polkadot
+TRX 0.11197 TRON
+BCH 466.13298 Bitcoin Cash
+NEAR 7.58118 NEAR Protocol
+UNI 10.46692 Uniswap
+MATIC 0.71404 Polygon
+LTC 83.50382 Litecoin
+PEPE 2.0e-05 Pepe
+EETH 3773.15076 ether.fi Staked ETH
+ICP 12.08027 Internet Computer
+LEO 5.96037 Unus Sed Leo
+DAI 0.99954 Dai
+weeth 3918.81543 Wrapped eETH
+ETC 30.4574 Ethereum Classic
+RNDR 10.29562 Render
+APT 9.09354 Aptos
+ezeth 3737.33907 Renzo Restaked ETH
+HBAR 0.10328 Hedera Hashgraph
+wif 3.68806 dogwifhat
+ATOM 8.62236 Cosmos
+ARB 1.14059 Arbitrum
+IMX 2.21038 Immutable X
+MNT 1.00261 Mantle
+KAS 0.1373 Kaspa
+FIL 5.77869 Filecoin
+CRO 0.11665 Cronos
+XLM 0.10647 Stellar
+FDUSD 0.99834 First Digital USD
+GRT 0.30965 The Graph
+usde 1.00035 Ethena USDe
+STX 1.93258 Stacks
+OKB 45.63737 OKB
+OP 2.49051 Optimism
+tao 394.48061 BitTensor
+XMR 140.32546 Monero
+AR 39.11068 Arweave
+floki 0.00027 FLOKI
+VET 0.03515 VeChain
+INJ 26.49115 Injective Protocol
+MKR 2686.51667 Maker
+BONK 4.0e-05 Bonk
+SUI 1.01539 Sui
+FTM 0.8026 Fantom
+THETA 2.22032 Theta Network
+RUNE 6.61997 THORChain
+RETH 4183.62258 Rocket Pool ETH
+LDO 2.32169 Lido DAO
+TIA 10.75157 Celestia
+FET 2.18983 Fetch.ai
+BGB 1.32761 Bitget Token
+CORE 2.01895 Core DAO
+jitosol 187.42478 Jito Staked SOL
+meth 3882.46969 Mantle Staked Ether
+ONDO 1.16019 Ondo Finance
+ALGO 0.18908 Algorand
+PYTH 0.4249 Pyth Network
+AAVE 103.6951 Aave
+JUP 1.13748 Jupiter
+GALA 0.04357 Gala
+zbu 4.57303 Zeebu
+SEI 0.51456 Sei Network
+STRK 1.21493 Starknet
+CHZ 0.15487 Chiliz
+FLOW 0.90699 Flow
+beam 0.02725 Beam
+ENA 0.83725 Ethena
+BSV 62.20022 Bitcoin SV
+JASMY 0.0253 JasmyCoin
+AKT 5.14339 Akash Network
+AGIX 0.9158 SingularityNET
+cheelee 20.36595 Cheelee
+rseth 3800.64212 Kelp DAO Restaked ETH
+AXS 7.82467 Axie Infinity
+FLR 0.02751 Flare Network
+QNT 92.16677 Quant
+WLD 4.91172 Worldcoin
+susde 1.06707 Ethena Staked USDe
+TKX 13.38943 Tokenize Xchange
+EGLD 39.65704 MultiversX
+not 0.01032 Notcoin
+NEO 14.87136 NEO
+GT 8.04111 GateToken
+W 0.57941 Wormhole
+SAND 0.4434 The Sandbox
+RON 3.06413 Ronin
+KCS 10.25242 KuCoin
+bome 0.01395 BOOK OF MEME
+PENDLE 6.23873 Pendle
+SNX 2.87618 Synthetix
+WBNB 595.81491 Wrapped BNB
+XEC 5.0e-05 eCash
+MINA 0.8398 Mina
+MSOL 200.27489 Marinade staked SOL
+XTZ 0.9452 Tezos
+EOS 0.80486 EOS
+CFX 0.21846 Conflux Network
+GNO 338.28978 Gnosis
+RBN 0.8877 Ribbon Finance
+MANA 0.45292 Decentraland
+ordi 40.70307 Ordinals
+NEXO 1.44967 Nexo
+AIOZ 0.74213 AIOZ Network
+APE 1.29971 ApeCoin
+ENS 24.79435 Ethereum Name Service
+STSOL 199.27911 Lido Staked SOL
+CAKE 2.89667 PancakeSwap
+FRXETH 3735.18556 Frax Ether
+USDD 0.99784 USDD
+MIOTA 0.22299 IOTA
+KAVA 0.67031 Kava
+KLAY 0.19541 Klaytn
+DEXE 12.56186 DeXe
+CKB 0.01594 Nervos Network
+ftn 2.21061 Fasttoken
+AXL 1.02392 Axelar
+PRIME 17.50115 Echelon Prime
+BLUR 0.41826 Blur
+sweth 3989.46537 Swell Ethereum
+LPT 21.02235 Livepeer
+cbeth 4032.76936 Coinbase Wrapped Staked ETH
+HNT 3.99962 Helium
+LUNC 0.00012 Terra Luna Classic
+corgiai 0.00194 CorgiAI
+TFUEL 0.09781 Theta Fuel
+WOO 0.3374 WOO Network
+FRAX 0.99232 FRAX
+ROSE 0.09215 Oasis Network
+trump 14.35741 MAGA
+BTG 33.99779 Bitcoin Gold
+CRV 0.48153 Curve
+OSMO 0.87233 Osmosis
+XAUT 2339.23053 Tether Gold
+1INCH 0.49257 1inch
+ILV 87.31053 Illuvium
+MANTA 1.75088 Manta Network
+DYDX 2.02574 dYdX
+MEME 0.02973 Memecoin
+AERO 1.17609 Aerodrome Finance
+OM 0.66677 MANTRA DAO
+ETHFI 4.62441 Ether.fi
+ARKM 2.41226 Arkham
+ENJ 0.35701 Enjin Coin
+OCEAN 0.91929 Ocean Protocol
+GLM 0.52027 Golem
+DYM 2.99428 Dymension
+XDC 0.03449 XDC Network
+ALT 0.33723 AltLayer
+turbo 0.00731 Turbo
+TUSD 0.99782 TrueUSD
+IOTX 0.05318 IoTeX
+ASTR 0.08809 Astar Network
+TWT 1.17678 Trust Wallet Token
+ethx 3859.21886 Stader ETHx
+rsweth 3778.73683 Restaked Swell ETH
+WEMIX 1.33833 WEMIX
+sfrxeth 3325.00698 Staked Frax Ether
+POPCAT 0.49066 Popcat
+GMT 0.23352 STEPN
+RAY 1.7771 Raydium
+JTO 3.79647 Jito Governance Token
+LUNA 0.60484 Terra
+RPL 22.25648 Rocket Pool
+GAL 3.93005 Galxe
+CELO 0.8443 Celo
+POLYX 0.42867 Polymesh
+ZRX 0.53108 0x
+CETH 75.41844 cETH
+ZIL 0.02427 Zilliqa
+SSV 43.98556 SSV Network
+SUPER 0.97219 SuperVerse
+ANKR 0.04371 Ankr Network
+SKL 0.08392 SKALE Network
+MX 4.40432 MX Token
+BICO 0.5513 Biconomy
+GUSD 1.00143 Gemini Dollar
+HOT 0.00247 Holo
+PAXG 2328.66322 PAX Gold
+METIS 74.65529 Metis
+COMP 61.17356 Compound
+MEW 0.0047 Cat in a dogs world
+ANT 9.6126 Aragon Network
+XRD 0.03933 Radix
+RSR 0.00806 Reserve Rights
+SC 0.00708 Siacoin
+ZEC 26.81654 Zcash
+RVN 0.02902 Ravencoin
+ABT 4.08018 Arcblock
+PEOPLE 0.07915 ConstitutionDAO
+PYUSD 0.99922 PayPal USD
+AMP 0.0071 Amp
+BETH 3931.33288 Binance ETH Coin
+ID 0.7165 Space ID
+ORBR 0.387 Orbler
+bsol 190.3424 BlazeStake Staked SOL
+QTUM 3.66018 Qtum
+SFP 0.82685 SafePal
+ETHW 3.5419 EthereumPOW
+LRC 0.278 Loopring
+ELF 0.5192 aelf
+FXS 4.74496 Frax Share
+ZETA 1.37834 ZetaChain
+BAT 0.24206 Basic Attention Token
+YGG 0.97377 Yield Guild Games
+API3 3.09634 API3
+CSPR 0.02948 Casper
+DASH 29.767 Dash
+T 0.03602 Threshold Network
+CFG 0.69594 Centrifuge
+FLUX 0.98654 Flux
+XEM 0.03787 NEM
+TRAC 0.84312 Origintrail
+AEVO 0.88582 Aevo
+MASK 3.52102 Mask Network
+GAS 5.11711 NEO GAS
+XCH 31.71687 Chia
+HIGH 6.56517 Highstreet
+lseth 3949.13446 Liquid Staked Ethereum
+GMX 34.52512 GMX
+DCR 20.27123 Decred
+NOS 3.87591 Nosana
+nmt 8.77592 NetMind Token
+ONE 0.02218 Harmony
+PIXEL 0.39856 Pixels
+JST 0.03062 JUST
+TEL 0.00341 Telcoin
+venom 0.17924 Venom
+mmx 2.07237 MMX
+TRB 112.84371 Tellor
+KSM 31.8608 Kusama
+TRIBE 0.53179 Tribe
+UMA 3.48973 UMA
+WBETH 3918.98914 Wrapped Beacon ETH
+WAVES 2.4027 Waves
+ONT 0.30506 Ontology
+vanry 0.19385 Vanar Chain
+CHR 0.3304 Chromia
+GLMR 0.29526 Moonbeam
+degen 0.02048 Degen
+$myro 0.26971 Myro
+agi 0.30597 Delysium
+AZERO 0.80166 Aleph Zero
+WCFG 0.697 Wrapped Centrifuge
+VTHO 0.00328 VeThor Token
+BAND 1.75422 Band Protocol
+AUDIO 0.20254 Audius
+GFI 3.36104 Goldfinch
+vgx 0.8267 Voyager VGX
+BTC.B 67511.17239 Bitcoin Avalanche Bridged (BTC.b)
+TRU 0.20999 TrueFi
+YFI 7128.70881 yearn.finance
+AMPL 1.14521 Ampleforth
+SAGA 2.53146 Saga
+paal 0.36479 PAAL AI
+CTC 0.68682 Creditcoin
+RLC 3.20954 iExec RLC
+0x0 0.26104 0x0.ai: AI Smart Contract
+CVX 2.82502 Convex Finance
+EDU 0.88817 Open Campus
+WAXP 0.06645 WAX
+maga 0.00057 MAGA Hat
+ponke 0.45846 PONKE
+DESO 21.71938 Decentralized Social
+KDA 0.82926 Kadena
+SUSHI 1.17854 SushiSwap
+BAL 3.95344 Balancer
+ICX 0.22533 ICON
+OHM 13.57051 Olympus DAO
+TBTC 67327.14298 tBTC
+zent 0.04089 Zentry
+POKT 0.13029 Pocket Network
+BDX 0.03373 Beldex
+apu 0.00068 Apu's Club
+ELG 1.29615 Escoin Token
+ORAI 13.37568 Oraichain
+boden 0.3015 Jeo Boden
+CHSB 0.21648 Swissborg
+SXP 0.3485 Swipe
+xai 0.75538 Xai
+RLB 0.07966 Rollbit Coin
+LCX 0.27 LCX
+COTI 0.12984 Coti
+DAO 0.80436 DAO Maker
+tarot 3.25178 Tarot
+token 0.13865 TokenFi
+MAGIC 0.78622 Magic
+LSK 1.55811 Lisk
+CELR 0.0259 Celer Network
+PROM 10.84887 Prometeus
+PRO 1.9659 Propy
+DGB 0.0115 DigiByte
+CYBER 8.76029 Cyberconnect
+POND 0.02388 Marlin
+NMR 28.16905 Numeraire
+bitcoin 0.19275 HarryPotterObamaSonic10Inu (ETH)
+C98 0.26185 Coin98
+RSS3 0.28404 RSS3
+MWC 17.38678 MimbleWimbleCoin
+OMNI 18.30293 Omni Network
+CTSI 0.2338 Cartesi
+WAVAX 36.36742 Wrapped AVAX
+ator 2.08845 ATOR Protocol
+DUSK 0.40316 Dusk Network
+IOST 0.00878 IOST
+unieth 3981.10325 Universal ETH
+BTRST 0.77902 Braintrust
+BIGTIME 0.19477 Big Time
+IQ 0.00968 IQ
+WILD 0.6271 Wilder World
+EWT 3.38962 Energy Web
+WMT 0.29244 World Mobile Token
+ONG 0.44859 Ontology Gas
+KUB 1.91213 Bitkub Coin
+WEN 0.00024 Wen
+h2o 0.20936 H2O Dao
+SLERF 0.33682 Slerf
+XNO 1.26138 Nano
+snbnb 607.70073 Synclub staked BNB
+SYN 0.76267 Synapse
+USDJ 1.08515 JUST Stablecoin
+KUJI 1.35159 Kujira
+JOE 0.47933 Trader Joe
+mobile 0.00181 Helium Mobile
+RIF 0.16315 RSK Infrastructure Framework
+sdex 0.01951 SmarDex
+SLP 0.00392 Smooth Love Potion
+lmwr 0.56283 LimeWire Token
+REZ 0.14042 Renzo
+CVC 0.16054 Civic
+friend 1.7071 Friend.tech
+XVS 10.11983 VENUS
+POWR 0.30829 Power Ledger
+AUCTION 24.2385 Bounce
+BONE 0.68482 Bone ShibaSwap
+OMI 0.00057 ECOMI
+ACH 0.03079 Alchemy Pay
+UST 0.02232 TerraUSD
+ARK 0.83641 Ark
+SYS 0.19225 Syscoin
+michi 0.26978 MichiCoin
+CQT 0.23652 Covalent
+STEEM 0.32309 Steem
+PUNDIX 0.57901 Pundi X
+BORA 0.14816 BORA
+acx 0.40858 Across Protocol
+USDP 0.99996 Pax Dollar
+MVL 0.00585 MVL
+ai 1.11596 Sleepless AI
+SURE 0.00548 inSure DeFi
+ZEN 9.59882 Horizen
+PHB 2.88614 Phoenix Global
+SNT 0.03666 Status
+MRS 1.68829 Metars Genesis
+CTK 1.0473 Shentu
+PORTAL 0.84073 Portal
+apex 3.00211 ApeX Token
+usdy 1.03417 Ondo US Dollar Yield
+PHA 0.18991 Phala Network
+DENT 0.00138 Dent
+nfp 0.5489 NFPrompt
+REQ 0.13672 Request Network
+SPELL 0.00095 Spell Token
+hook 0.88675 Hooked Protocol
+HIVE 0.31604 Hive
+ZIG 0.09527 Zignaly
+MOVR 15.11207 Moonriver
+SFUND 2.21801 Seedify.fund
+STMATIC 0.78455 Lido Staked Matic
+EURS 1.08002 Stasis Euro
+maneki 0.01521 Maneki
+TNSR 1.06332 Tensor
+BOBA 0.34874 Boba Network
+ORCA 2.6272 Orca
+DAG 0.04557 Constellation
+SGB 0.0088 Songbird
+CREAM 77.40757 Cream
+OETH 3772.66093 Origin Ether
+VELO 0.01753 Velo
+NAKA 1.42951 Nakamoto Games
+NYM 0.16262 Nym
+ZCX 0.18458 Unizen
+spec 12.1595 Spectral
+NOIA 0.17519 Syntropy
+ALPH 1.60219 Alephium
+pol 0.71877 Polygon Ecosystem Token
+BMX 0.38851 BitMart Token
+lever 0.00389 LeverFi
+XYM 0.0213 Symbol
+MTL 1.86074 Metal
+DODO 0.18893 DODO
+WMATIC 0.71421 Wrapped Matic
+hashai 0.00137 HashAI
+crvusd 0.99779 crvUSD
+TLOS 0.28965 Telos
+wexo 2.33348 Wexo
+SUN 0.01229 Sun Token
+pups 15.59455 PUPS (Ordinals)
+ALEX 0.18668 Alex Lab
+WIN 0.00013 WINkLink BSC
+10SET 0.71771 Tenset
+HFT 0.29541 Hashflow
+ace 5.39974 Endurance
+gpu 1.21752 NodeAI
+ALICE 1.28206 Alice
+DOG 0.00791 The Doge NFT
+honey 0.07509 Hivemapper
+dione 0.01228 Dione
+MPL 14.68226 Maple Finance
+oas 0.0618 Oasys
+CUDOS 0.01609 Cudos
+LON 0.98191 Tokenlon
+bzr 9.65088 Bazaars
+virtual 0.11228 Virtual Protocol
+LUSD 1.00275 Liquity USD
+myria 0.00606 Myria
+oseth 3846.62404 StakeWise v3 osETH
+SCRT 0.40961 Secret
+BLZ 0.25884 Bluzelle
+$grok 0.01754 Grok
+KNC 0.65013 Kyber Network Crystal
+GNS 3.24667 Gains Network
+MLK 0.30733 MiL.k Alliance
+MAV 0.44003 Maverick Protocol
+HEART 0.0197 Humans.ai
+npc 0.01357 Non-Playable Coin
+FORT 0.25514 Forta
+DKA 0.02904 dKargo
+MED 0.01197 MediBloc
+LQTY 1.12016 Liquity
+ALPHA 0.12347 Stella
+ZBC 0.02113 Zebec Protocol
+EVER 0.0548 Everscale
+XYO 0.00797 XYO
+BNT 0.80014 Bancor
+RDNT 0.19927 Radiant Capital
+zbcn 0.0021 Zebec Network
+ultima 3782.73792 Ultima
+hifi 0.83975 Hifi Finance
+FRONT 1.2098 Frontier
+VR 0.0159 Victoria VR
+BTSE 0.65071 BTSE Token
+PYR 4.38615 Vulcan Forged
+STPT 0.05401 STP Network
+ORBS 0.03298 Orbs
+cgpt 0.22147 ChainGPT
+velo 0.15337 Velodrome Finance
+OMG 0.72899 OMG Network
+LOOM 0.0836 Loom Network
+alt 0.3368 ArchLoot
+AITECH 0.16748 Solidus AITECH
+canto 0.1696 CANTO
+TOSHI 0.00025 Toshi
+PNG 0.46225 Pangolin
+GEAR 0.01805 Gearbox
+snek 0.00137 Snek
+quil 0.30978 Wrapped QUIL
+ARDR 0.09997 Ardor
+STG 0.48766 Stargate Finance
+GOG 0.16808 Guild of Guardians
+WRX 0.21772 WazirX
+AGLD 1.28246 Adventure Gold
+wojak 0.00143 Wojak
+ACA 0.10248 Acala
+ozo 0.21396 Ozone Chain
+lyx 3.24467 LUKSO
+DOLA 0.9971 Dola USD Stablecoin
+LOOKS 0.0974 LooksRare
+xpla 0.16798 XPLA
+XVG 0.00583 Verge
+olas 2.32862 Autonolas
+mavia 3.0479 Heroes of Mavia
+banana 39.99388 Banana Gun

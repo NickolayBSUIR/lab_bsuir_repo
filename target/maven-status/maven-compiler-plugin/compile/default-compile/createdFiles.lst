@@ -1,0 +1,9 @@
+dao\daoImpl\CurrencyDaoImpl.class
+service\CurrencyService.class
+validator\Validator.class
+sessionFactory\SessionFactoryImpl.class
+entity\Currency.class
+random\Random.class
+service\serviceImpl\CurrencyServiceImpl.class
+com\bsuir\Main.class
+dao\CurrencyDao.class
